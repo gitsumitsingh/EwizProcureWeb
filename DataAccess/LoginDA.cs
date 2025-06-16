@@ -1,7 +1,8 @@
 ﻿using EwizProcure.Interfaces;
 using EwizProcure.Models;
-using System.Data.SqlClient;
-using EwizProcure.Interfaces;
+using Microsoft.Data.SqlClient;
+//using System.Data.SqlClient;
+//using EwizProcure.Interfaces;
 using EwizProcure.GlobalUtilities;
 
 namespace EwizProcure.DataAccess
