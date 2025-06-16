@@ -1,11 +1,11 @@
-﻿using EwizProcure.Interfaces;
-using EwizProcure.Models;
+﻿using EwizProcureWeb.Interfaces;
+using EwizProcureWeb.Models;
 using Microsoft.Data.SqlClient;
 //using System.Data.SqlClient;
-//using EwizProcure.Interfaces;
-using EwizProcure.GlobalUtilities;
+//using EwizProcureWeb.Interfaces;
+using EwizProcureWeb.GlobalUtilities;
 
-namespace EwizProcure.DataAccess
+namespace EwizProcureWeb.DataAccess
 {
     public class LoginDA : ILoginDA
     {

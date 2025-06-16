@@ -1,7 +1,7 @@
-﻿using EwizProcure.Interfaces;
+﻿using EwizProcureWeb.Interfaces;
 using Newtonsoft.Json;
 
-namespace EwizProcure.GlobalUtilities
+namespace EwizProcureWeb.GlobalUtilities
 {
     public class GlobalFunctions
     {

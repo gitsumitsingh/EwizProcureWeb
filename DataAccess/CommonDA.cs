@@ -1,10 +1,10 @@
-﻿using EwizProcure.GlobalUtilities;
+﻿using EwizProcureWeb.GlobalUtilities;
 using System.Data;
 using Microsoft.Data.SqlClient;
 //using System.Data.SqlClient;
 using System.Reflection;
 
-namespace EwizProcure.DataAccess
+namespace EwizProcureWeb.DataAccess
 {
     public class CommonDA
     {

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace EwizProcure.Models
+namespace EwizProcureWeb.Models
 {
     [Serializable]
     public class LoginDetailViewModels

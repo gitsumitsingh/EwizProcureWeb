@@ -1,4 +1,4 @@
-﻿namespace EwizProcure.Interfaces
+﻿namespace EwizProcureWeb.Interfaces
 {
     public interface IGlobalSettings
     {

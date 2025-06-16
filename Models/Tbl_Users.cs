@@ -1,4 +1,4 @@
-﻿namespace EwizProcure.Models
+﻿namespace EwizProcureWeb.Models
 {
     public class Tbl_Users
     {

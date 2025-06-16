@@ -1,6 +1,6 @@
-﻿using EwizProcure.Models;
+﻿using EwizProcureWeb.Models;
 
-namespace EwizProcure.Interfaces
+namespace EwizProcureWeb.Interfaces
 {
     public interface ILoginDA
     {

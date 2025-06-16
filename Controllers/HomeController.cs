@@ -1,8 +1,8 @@
-using EwizProcure.Models;
+using EwizProcureWeb.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace EwizProcure.Controllers
+namespace EwizProcureWeb.Controllers
 {
     public class HomeController : Controller
     {

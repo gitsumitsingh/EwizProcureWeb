@@ -1,9 +1,9 @@
-﻿using EwizProcure.Interfaces;
-using EwizProcure.Models;
+﻿using EwizProcureWeb.Interfaces;
+using EwizProcureWeb.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace EwizProcure.Controllers
+namespace EwizProcureWeb.Controllers
 {
     public class LoginController : Controller
     {

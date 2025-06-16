@@ -1,5 +1,5 @@
-using EwizProcure.DataAccess;
-using EwizProcure.Interfaces;
+using EwizProcureWeb.DataAccess;
+using EwizProcureWeb.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 

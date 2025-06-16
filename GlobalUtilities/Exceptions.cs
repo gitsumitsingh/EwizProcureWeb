@@ -1,4 +1,4 @@
-﻿namespace EwizProcure.GlobalUtilities
+﻿namespace EwizProcureWeb.GlobalUtilities
 {
 
     public static class Exceptions
